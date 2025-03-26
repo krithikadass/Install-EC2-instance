@@ -1,6 +1,6 @@
 # 1. Explore & Understand AWS
 
-Algorithm:
+## Algorithm:
 
 Sign up for AWS
 
@@ -63,7 +63,7 @@ Successfully launched and connected to an EC2 instance.
 3. Install OpenStack
 (OpenStack is an open-source cloud platform for managing virtualized resources.)
 
-Algorithm:
+## Algorithm:
 
 Prepare Ubuntu Server (20.04/22.04)
 
@@ -104,10 +104,13 @@ Launch OpenStack Dashboard
 
 Access Horizon Dashboard using http://<your-server-ip>/dashboard.
 Log in with admin credentials.
-Result:
+
+## Result:
 
 ![Screenshot 2025-03-19 160433](https://github.com/user-attachments/assets/c74b31e6-e344-402b-90b0-c3861f48ad0c)
 
 ![Screenshot 2025-03-19 160451](https://github.com/user-attachments/assets/c26a835a-8110-43a2-af78-e7843306a23f)
+
+# Result
 
 Successfully installed OpenStack and accessed the Horizon Dashboard.
